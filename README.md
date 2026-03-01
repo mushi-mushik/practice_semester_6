@@ -16,4 +16,4 @@ Host frontend on a different port
 uv run python -m http.server 8000
 ```
 
-![basic_bot_dialog](screenshot.png)
+![basic_bot_dialog](dialog.png)
